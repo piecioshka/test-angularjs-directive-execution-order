@@ -26,3 +26,7 @@ Full CSS styles included by AngularJS v1.4.4:
 ```css
 @charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}
 ```
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
